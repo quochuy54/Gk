@@ -1,0 +1,11 @@
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\bin\Debug\KiemtraLeQuocHuy.exe.config
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\bin\Debug\KiemtraLeQuocHuy.exe
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\bin\Debug\KiemtraLeQuocHuy.pdb
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\102190068_LeQuocHuy_GK.csprojAssemblyReference.cache
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\KiemtraLeQuocHuy.Form1.resources
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\KiemtraLeQuocHuy.Properties.Resources.resources
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\102190068_LeQuocHuy_GK.csproj.GenerateResource.cache
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\102190068_LeQuocHuy_GK.csproj.CoreCompileInputs.cache
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\KiemtraLeQuocHuy.exe
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\KiemtraLeQuocHuy.pdb
+D:\Documents\Kì 4\DotNet\KiemTraGiuaKi\KiemtraLeQuocHuy\KiemtraLeQuocHuy\obj\Debug\KiemtraLeQuocHuy.Form2.resources
